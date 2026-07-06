@@ -45,3 +45,4 @@ A cópia congelada em `dados/` garante reprodutibilidade: como o portal da CEAP 
 - Pandas / NumPy
 - Matplotlib / Seaborn
 - Scikit-learn (IsolationForest, LocalOutlierFactor, RobustScaler)
+
