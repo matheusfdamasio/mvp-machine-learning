@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 
-Sistema de detecção de anomalias sobre as despesas da [Cota para Exercício da Atividade Parlamentar (CEAP)](https://www.camara.leg.br/cotas), da Câmara dos Deputados, que reúne mais de 1,4 milhão de reembolsos autodeclarados por parlamentares entre 2019 e 2025.
+Sistema de detecção de anomalias sobre as despesas da [Cota para Exercício da Atividade Parlamentar (CEAP)]([https://www.camara.leg.br/cotas](https://dadosabertos.camara.leg.br/swagger/api.html?tab=staticfile), da Câmara dos Deputados, que reúne mais de 1,4 milhão de reembolsos autodeclarados por parlamentares entre 2019 e 2025.
 
 Como os dados públicos não trazem rótulo de irregularidade, o problema é tratado como aprendizado não supervisionado: o modelo aprende o padrão de gasto normal e sinaliza despesas estatisticamente atípicas, priorizando quais registros merecem revisão humana e reduzindo o esforço manual de auditoria. O objetivo não é acusar fraude, e sim triar candidatos para análise.
 
